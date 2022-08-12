@@ -1,6 +1,7 @@
 # Web Developer Home Page
 
 ## Responive Web Developer Landing Page
+
 -- It is a Responsive Web Developer Landing Page built uisng HTML & CSS.
 -- Media Queries(CSS) used to make webpage responsive.
 -- This Landing Page consists of seven sections.
