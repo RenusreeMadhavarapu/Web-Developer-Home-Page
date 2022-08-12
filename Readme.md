@@ -1,4 +1,5 @@
 # Web Developer Home Page
 
 ## Screenshots
-![gitwebdeveloper1](https://user-images.githubusercontent.com/110158807/184408948-3087e52e-d53e-48b3-9978-0e0870c0c6ed.png)
+![Screenshot 2022-08-12 at 21-57-51 Developer Landing Page](https://user-images.githubusercontent.com/110158807/184409085-28195618-ffbb-4eae-acf3-dcf88386b771.png)
+
