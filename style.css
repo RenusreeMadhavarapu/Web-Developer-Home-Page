@@ -660,7 +660,7 @@ img.arrow{
     font-size:8px;
   }
   img[alt="topimg"]{
-    width:120px;
+    width:150px;
 
   }
   .blog-card{
@@ -672,7 +672,7 @@ img.arrow{
   .blog-author b{
 
     position:relative;
-    top:-10%;
+    top:-15%;
   }
 
   
