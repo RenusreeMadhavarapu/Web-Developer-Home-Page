@@ -652,33 +652,6 @@ img.arrow{
     margin-left:20px;
   }
 }
-@media (max-width:440px){
-
-
-  .blog-content small{
-    font-size:7px;
-    line-height:1.3;
-  }
-
-  .blog-content h3{
-    font-size:10px;
-  }
-
-  .blog-author b{
-    font-size:10px;
-  }
-  img[alt="bottomimg"]{
-    width:30px;
-
-  }
-}
-
-
-  
-  
-
-
-  
 
 
 /* FAQ Section */
