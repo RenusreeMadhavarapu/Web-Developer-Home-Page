@@ -653,6 +653,17 @@ img.arrow{
   }
 }
 
+@media (max-width:440px){
+
+  .blog-cards{
+    
+    margin-left:20px;
+    margin-right:20px;
+   
+    
+  }
+}
+
 
 /* FAQ Section */
 
