@@ -655,6 +655,15 @@ img.arrow{
   }
 }
 
+@media (max-width:440px){
+  .blog-content small{
+    font-size:8px;
+  }
+
+
+  
+}
+
 /* FAQ Section */
 
 .faq-section{
