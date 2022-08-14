@@ -659,7 +659,10 @@ img.arrow{
   .blog-content small{
     font-size:8px;
   }
-  
+  img[alt="topimg"]{
+    width:150px;
+
+  }
   .blog-card{
    
     border-bottom-left-radius: 0px;
