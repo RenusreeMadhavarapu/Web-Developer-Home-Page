@@ -665,6 +665,15 @@ img.arrow{
   .blog-content small{
     font-size:7px;
   }
+
+  img[alt="bottomimg"]{
+    width:20px;
+
+  }
+  .blog-author b{
+    font-size:10px;
+  }
+
 }
 
 
