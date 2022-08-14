@@ -13,6 +13,12 @@ body{
  line-height:1.1;
  
 }
+@media (max-width:440px){
+  body{
+    margin:0;
+    padding:0;
+  }
+}
 /* header section */
 header{
   height:450px;
