@@ -659,7 +659,7 @@ img.arrow{
     
     margin-left:20px;
     margin-right:20px;
-    gap:3rem;
+   
     
   }
   .blog-content small{
@@ -679,6 +679,11 @@ img.arrow{
     left:10%;
     
   }
+  .blog-card{
+
+    margin-top:30px;
+  }
+
 }
 
 
