@@ -532,9 +532,7 @@ img.arrow{
     font-size:20px;
   }
 
-  .blog-about{
-    height:80px;
-  }
+  
 
 }
 
@@ -573,12 +571,8 @@ img.arrow{
   }
 }
 
+
 @media (max-width:700px){
-  .blog-card{
-    width:90%;
-  }
-}
-@media (max-width:620px){
   .blog-card{
     width:100%;
   }
@@ -663,6 +657,18 @@ img.arrow{
 
   .blog-content small{
     font-size:7px;
+  }
+
+  .blog-content h3{
+    font-size:10px;
+  }
+
+  .blog-author b{
+    font-size:10px;
+  }
+  img[alt="bottomimg"]{
+    width:30px;
+
   }
 }
 
