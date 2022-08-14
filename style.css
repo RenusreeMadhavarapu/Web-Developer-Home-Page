@@ -13,14 +13,18 @@ body{
  line-height:1.1;
  
 }
+@media (max-width:440px){
+  body{
+    margin-right:0px;
+  }
+}
 
 /* header section */
 header{
   height:450px;
   background-color: #3400ff;
   position:relative;
-  margin:0;
-  padding:0;
+  
 }
 nav{
   float:right;
