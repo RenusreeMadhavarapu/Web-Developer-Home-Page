@@ -210,6 +210,9 @@ img.header-image{
      width:200px;
      top:95%;
   }
+  .header-text{
+    margin-left:0px;
+  }
 
 
 }
