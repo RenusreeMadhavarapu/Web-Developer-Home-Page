@@ -199,6 +199,15 @@ img.header-image{
     font-size:13px;
   }
 }
+
+@media (max-width:440px){
+  img.header-image{
+     width:200px;
+     
+  }
+
+
+}
 /* Company Section */
 .companies{
   display:flex;
