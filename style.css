@@ -435,6 +435,10 @@ img.arrow{
   .card-body{
     font-size:7px;
   }
+
+  .blog-card{
+    margin-top:20px;
+  }
   
 }
 
