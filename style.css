@@ -659,6 +659,9 @@ img.arrow{
   .blog-content small{
     font-size:8px;
   }
+  .blog-card{
+    width:90%;
+  }
 
 
   
