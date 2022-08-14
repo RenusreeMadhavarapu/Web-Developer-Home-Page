@@ -668,10 +668,14 @@ img.arrow{
     border-bottom-left-radius: 0px;
     
   }
-  .blog-author{
-    left:0%;
-    top:-3%;
+ 
+  .blog-author b{
+
+    position:relative;
+    top:5%;
   }
+
+  
   
 
 
