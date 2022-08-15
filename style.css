@@ -826,6 +826,20 @@ img.arrow{
     }
   }
 
+  @media (max-width:445px){
+
+    .faqtext{
+      font-size:8px;
+    }
+
+    .faq-content button{
+
+      width:80px;
+      font-size:small;
+    }
+
+  }
+
   /* Download Section */
   .download-section{
     display:flex;
