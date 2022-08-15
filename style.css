@@ -17,7 +17,7 @@ body{
  
 }
 
-@media (max-width:445px){
+@media (min-width:445px){
 /* header section */
 header{
   height:450px;
