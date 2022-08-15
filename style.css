@@ -5,7 +5,7 @@
 * {
   font-family: "Poppins", sans-serif;
 }
-@media (min-width:445px){
+
 body{
   margin:0;
   padding:0;
@@ -206,7 +206,15 @@ img.header-image{
   }
 }
 
+@media (max-width:440px){
+  img.header-image{
+     width:200px;
+     top:95%;
+  }
+  
 
+
+}
 /* Company Section */
 .companies{
   display:flex;
@@ -656,7 +664,38 @@ img.arrow{
   }
 }
 
+@media (max-width:440px){
 
+  .blog-cards{
+    
+    margin-left:20px;
+    margin-right:20px;
+   
+    
+  }
+  .blog-content small{
+    font-size:7px;
+  }
+
+  img[alt="bottomimg"]{
+    width:20px;
+
+  }
+  .blog-author b{
+    font-size:10px;
+  }
+
+  .blog-author{
+   
+    left:10%;
+    
+  }
+  .blog-card{
+
+    margin-top:30px;
+  }
+
+}
 
 
 /* FAQ Section */
@@ -966,4 +1005,4 @@ img.arrow{
       }
     }
 
-}
+  
