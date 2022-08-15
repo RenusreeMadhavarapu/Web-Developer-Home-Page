@@ -936,11 +936,18 @@ img.arrow{
         align-items:flex-start;
         margin-left:10px;
         margin-right:10px;
+        position:relative;
         
       }
 
       .download-content h1{
         text-align:center;
+      }
+      .download-email button{
+        position:absolute;
+        right:5%;
+
+
       }
     }
    
