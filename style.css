@@ -927,6 +927,13 @@ img.arrow{
       }
     
     }
+    @media (max-width:445px){
+
+      .download-email{
+        width:150px;
+        
+      }
+    }
    
     /* footer section */
     .footer-section{
