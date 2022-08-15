@@ -927,6 +927,19 @@ img.arrow{
       }
     
     }
+
+    @media (max-width:445px){
+
+
+      .download-section{
+        flex-direction:column;
+        align-items:flex-start;
+      }
+
+      .download-content h1{
+        text-align:center;
+      }
+    }
    
    
     /* footer section */
@@ -1035,6 +1048,11 @@ img.arrow{
 @media (max-width:445px){
   .list-items{
     font-size:12px;
+  }
+
+  img.footer-logo{
+    margin-left:130px;
+
   }
 
 
