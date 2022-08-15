@@ -935,6 +935,8 @@ img.arrow{
         flex-direction:column;
         align-items:flex-start;
         margin-left:10px;
+        margin-right:10px;
+        
       }
 
       .download-content h1{
