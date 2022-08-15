@@ -941,7 +941,7 @@ img.arrow{
       }
 
       .download-content h1{
-        text-align:center;
+        margin-left:15px;
       }
       .download-email button{
         position:absolute;
